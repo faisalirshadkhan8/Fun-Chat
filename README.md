@@ -1,4 +1,4 @@
-# fun_chat
+# Fun chat
 
 A chat app which will be used to communicate with each via email
 
